@@ -1,0 +1,25 @@
+{
+  "name": "transformer-response-data",
+  "version": "1.0.0",
+  "description": "Transform data for response",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiido/transformer-response-data.git"
+  },
+  "keywords": [
+    "transform",
+    "data",
+    "json"
+  ],
+  "author": "Jhon Freddy Rondon Betancourt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiido/transformer-response-data/issues"
+  },
+  "homepage": "https://github.com/shiido/transformer-response-data#readme"
+}
