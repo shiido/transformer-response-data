@@ -59,6 +59,8 @@ function Transformer(obj) {
  */
 Transformer.prototype.transformer = function (data) {
 
+    data = JSON.parse(JSON.stringify(data));
+
     function tranformItem(properties, data) {
         var dataResponse = {};
         var keysObject = Object.keys(properties);
